@@ -1,8 +1,6 @@
 "# module9-grpc" 
-<span style="color: yellow;">Teks warna kuning</span>
 
-### Failasuf Indi Marsnedy
-### 2106750364
+### Failasuf Indi Marsnedy - 2106750364
 
 ## Reflection
 
