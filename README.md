@@ -104,7 +104,7 @@
         Tambahkan logika penanganan kegagalan transaksi, seperti penjadwalan ulang pembayaran, pemrosesan ulang transaksi, atau pengiriman pemberitahuan kepada pengguna jika transaksi gagal atau ditolak.
     - Manajemen Status Transaksi:
         Kelola status transaksi secara lebih rinci, termasuk pemantauan dan pelaporan status transaksi kepada pengguna atau administrator sistem. Misalnya, Kita dapat mengimplementasikan logika untuk melacak status transaksi seperti "Dalam Proses," "Sukses," "Dibatalkan," atau "Gagal."
-    > Optimisasi Kinerja:
+    -  Optimisasi Kinerja:
         Lakukan optimisasi kinerja dalam logika pemrosesan pembayaran untuk meningkatkan responsifitas aplikasi dan mengurangi waktu pemrosesan transaksi. Ini termasuk penggunaan koding yang efisien, manajemen memori yang baik, dan penyesuaian skala yang tepat untuk menangani beban transaksi yang besar.
 
 
